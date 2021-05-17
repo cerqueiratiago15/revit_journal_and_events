@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+###############################################################################
+HackathonENG/bin/.
+
+/HackathonENG/UploadToDB/obj
+/HackathonENG/UploadToDBConsole/bin/Debug
+/HackathonENG/UploadToDBConsole/obj/Debug
